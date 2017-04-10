@@ -1,37 +1,30 @@
-title: nodeppt markdown 演示
-speaker: 三水清
-url: https://github.com/ksky521/nodePPT
-transition: slide3
+title: HTML+CSS
+speaker: 泛艺学苑
+url: https://github.com/pengteling
+transition: slide2
 files: /js/demo.js,/css/demo.css,/js/zoom.js
-theme: moon
+theme: fanyi
 usemathjax: yes
 
 [slide]
-# nodePPT
-## 这可能是迄今为止最好的网页版演示库
-<small style="vertical-align:middle;display:inline-block"><iframe src="http://ghbtns.com/github-btn.html?user=ksky521&repo=nodeppt&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20" style="width:110px;height:20px;  background-color: transparent;"></iframe><iframe src="http://ghbtns.com/github-btn.html?user=ksky521&repo=nodeppt&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20" style="width:110px;height:20px;  background-color: transparent;"></iframe><iframe src="http://ghbtns.com/github-btn.html?user=ksky521&repo=nodeppt&type=follow&count=false" allowtransparency="true" frameborder="0" scrolling="0" width="170" height="20" style="width:170px;height:20px;  background-color: transparent;"></iframe></small>
+# 前端
+## 泛艺学苑前端前导课程
+
 [slide]
-## 为什么选择nodePPT
+## 什么是前端
 ----
-* 基于GFM的markdown语法编写 {:&.rollIn}
-* 支持html混排，再复杂的demo也可以做！
-* 导出网页或者pdf更容易分享
-* 支持单页背景图片
-* 多种模式：纵览模式，双屏模式，远程控制
-* 可以使用画板，可以使用note做备注
-* 支持语法高亮，自由选择highlight样式
-* 可以单页ppt内部动效，单步动效
-* 支持进入/退出回调，做在线demo很方便
+* 前端开发工程师是Web前端开发工程师的简称，是近五年才真正开始受到重视的一个新兴职业。Web前端开发技术是一个先易后难的过程，主要包括三个要素:HTML、CSS和JavaScript，这就要求前端开发工程师不仅要掌握基本的Web前端开发技术，网站性能优化、SEO和服务器端的基础知识，而且要学会运用各种工具进行辅助开发以及理论层面的知识，包括代码的可维护性、组件的易用性、分层语义模板和浏览器分级支持等。 {:&.rollIn}
+* 前端不只是写网页，更重要的是要解决属于前端领域的各种问题。从广义上来讲，所有用户终端产品与视觉和交互有关的部分，都是前端工程师的专业领域。
 
 
 [slide]
-# 基本语法和样式演示
+# 理解HTML、CSS、javascript之间的关系
+## 结构层(HTML)、表示层(CSS)、行为层(Javascript)
+* 对于一个网页，HTML定义网页的结构，CSS描述网页的样子，JavaScript设置网页的功能。一个很经典的例子是说HTML就像 一个人的骨骼、器官，而CSS就是人的皮肤，有了这两样也就构成了一个植物人了，加上javascript这个植物人就可以对外界刺激做出反应，可以思考、运动、可以给自己整容化妆（改变CSS）等等，成为一个活生生的人 {:&.rollIn}
+* 如果说HTML是肉身、CSS就是皮相、Javascript就是灵魂。没有Javascript,HTML+CSS是植物人，没有Javascript、CSS是个毁容的植物人。
+* 如果说HTML是建筑师，CSS就是干装修的，Javascript是魔术师。
 
-[slide]
 
-# 封面样式
-## h1是作为封面用的，内部的都用h2
-<small>演讲者：xxx</small>
 
 [slide]
 
